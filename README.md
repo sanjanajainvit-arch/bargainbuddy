@@ -1,4 +1,4 @@
-# 🛒 PriceWise - E-Commerce Price Tracking & Alert System
+# 🛒 BargainBuddy- E-Commerce Price Tracking & Alert System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-Framework-black" />
