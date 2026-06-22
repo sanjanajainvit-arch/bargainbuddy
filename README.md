@@ -269,32 +269,4 @@ This project helped strengthen skills in:
 
 ---
 
-## 📸 Screenshots
-
-Add your screenshots here:
-
-```text
-screenshots/homepage.png
-screenshots/product-details.png
-screenshots/email-alert.png
-```
-
-Example:
-
-```md
-![Homepage](screenshots/homepage.png)
-![Product Details](screenshots/product-details.png)
-![Email Alert](screenshots/email-alert.png)
-```
-
----
-
-## 🔮 Future Enhancements
-
-* AI-Based Price Prediction
-* User Authentication
-* Personalized Watchlists
-* Multi-Vendor Product Tracking
-* Advanced Analytics Dashboard
-* Mobile Application Support
 
