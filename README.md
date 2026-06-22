@@ -1,7 +1,6 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/lh9XVGv6BHs?si=BquPyhI_o2f8jHqV" target="_blank">
-      <img src="https://github.com/adrianhajdin/pricewise/assets/151519281/315377f2-0307-4ac2-87e0-55e053ca094b" alt="Project Banner">
     </a>
   <br />
 
@@ -15,7 +14,7 @@
   <h3 align="center">A Ecom Price Tracking Application</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project step by step with our detailed tutorial on
     </div>
 </div>
 
@@ -31,9 +30,6 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
 <a href="https://youtu.be/lh9XVGv6BHs?si=BquPyhI_o2f8jHqV" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
@@ -41,9 +37,6 @@ If you prefer visual learning, this is the perfect resource for you. Follow our 
 
 Developed using Next.js and Bright Data's webunlocker, this e-commerce product scraping site is designed to assist users in making informed decisions. It notifies users when a product drops in price and helps competitors by alerting them when the product is out of stock, all managed through cron jobs.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
